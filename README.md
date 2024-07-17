@@ -4,7 +4,7 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mobile.x.com/andy__osyndoh&ved=2ahUKEwiZmLntka6HAxVm-AIHHS4ADBcQFnoECBcQAQ&usg=AOvVaw1OUqkg1lD6edQv-nXC8IL6" title="Twitter - @Andy__osyndoh"><img src="https://img.shields.io/badge/-@Andy__Osyndoh-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mobile.x.com/andy__osyndoh&ved=2ahUKEwiZmLntka6HAxVm-AIHHS4ADBcQFnoECBcQAQ&usg=AOvVaw1OUqkg1lD6edQv-nXC8IL6" title="Twitter - @Andy__osyndoh"><img src="https://img.shields.io/badge/-@Andy__Osyndoh-00acee?style=flat&logo=X&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andrew-osindo-4530691ba/" title="LinkedIn - Andrew Osindo"><img src="https://img.shields.io/badge/-Andrew Osindo-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
    <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.facebook.com/public/Andy%2520Osyndoh&ved=2ahUKEwiZmLntka6HAxVm-AIHHS4ADBcQFnoECBsQAQ&usg=AOvVaw2gSQkVcy5Q3Fh6SsUm0zuR" title="Facebook - Andy Osyndoh"><img src="https://img.shields.io/badge/-Andy Osyndoh-0072b1?style=flat&logo=Facebook&logoColor=white" /></a>
  
