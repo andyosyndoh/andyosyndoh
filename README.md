@@ -1,4 +1,4 @@
-## Hi there 
+
 <!-- Title -->
 <h1 align="center" title="...and I'm happy you are here">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Andy</h1>
 <!-- Socials -->
