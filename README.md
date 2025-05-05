@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Osindo</h1>
 <h3 align="center">A passionate Software developer from Kenya.</h3>
 
-- 🌱 I’m currently learning **React Framework, Django and Python**
+- 🌱 I’m currently learning **Ruby on Rails and Rust**
 
 - 👨‍💻 All of my projects are available at [https://andyportfolio-production.up.railway.app/](https://andyportfolio-production.up.railway.app/)
 
