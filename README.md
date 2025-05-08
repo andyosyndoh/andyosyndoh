@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://andyportfolio-production.up.railway.app/](https://andyportfolio-production.up.railway.app/)
 
-- 📝 I regularly write articles on [https://dev.to/andyosyndoh](https://dev.to/andyosyndoh)
+- 📝 I write articles on [https://dev.to/andyosyndoh](https://dev.to/andyosyndoh)
 
 - 💬 Ask me about **Go, Vanilla JS, SQL and GraphQL**
 
