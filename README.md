@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deciphering Collaboration](https://dev.to/andyosyndoh/deciphering-collaboration-11bk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
