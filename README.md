@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyosyndoh" alt="andyosyndoh" /></a> </p>
 
-- 🔭 I’m currently working on [Social-Network](https://github.com/Athooh/social-network)
+- 🔭 I’m currently working on [Chama Wallet](https://github.com/Malika7188/Community-Wallet-for-Women-s-Savings-Groups)
 
-- 🌱 I’m currently learning **Rails and Ruby**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://andyportfolio-production.up.railway.app/](https://andyportfolio-production.up.railway.app/)
 
