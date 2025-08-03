@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Are We Taking &quot;Clean Code&quot; Too Far?](https://dev.to/andyosyndoh/are-we-taking-clean-code-too-far-224j)
 - [Deciphering Collaboration](https://dev.to/andyosyndoh/deciphering-collaboration-11bk)
 <!-- BLOG-POST-LIST:END -->
 
