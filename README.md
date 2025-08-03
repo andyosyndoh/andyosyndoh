@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://andyportfolio-production.up.railway.app/](https://andyportfolio-production.up.railway.app/)
+- 👨‍💻 All of my projects are available at [Andy Portfolio](https://andyosyndoh.netlify.app)
 
-- 📝 I write articles on [https://dev.to/andyosyndoh](https://dev.to/andyosyndoh)
+- 📝 I write articles on [dev.to](https://dev.to/andyosyndoh)
 
 - 💬 Ask me about **Anything Related to Programming**
 
