@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyosyndoh" alt="andyosyndoh" /></a> </p>
 
-- 🔭 I’m currently working on [Chama Wallet](https://github.com/Malika7188/Community-Wallet-for-Women-s-Savings-Groups)
 
 - 🌱 I’m currently learning **Rust**
 
